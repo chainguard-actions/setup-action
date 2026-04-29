@@ -1,5 +1,7 @@
 # depot/setup-action
 
+▶️ GitHub Action to download and install the Depot CLI
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/depot/setup-action](https://github.com/depot/setup-action).
 
 ## Versions
