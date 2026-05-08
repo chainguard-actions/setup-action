@@ -2,5 +2,6 @@
   "owner": "depot",
   "name": "setup-action",
   "visibility": "internal",
-  "description": "▶️ GitHub Action to download and install the Depot CLI"
+  "description": "▶️ GitHub Action to download and install the Depot CLI",
+  "block_publish": false
 }
